@@ -8,4 +8,6 @@ export const colors = {
   text: "#1F2630",
   subtleText: "#64707D",
   danger: "#E03131",
+  bannerGradientTop: "transparent",
+  bannerGradientBottom: "rgba(0,0,0,0.25)",
 };
